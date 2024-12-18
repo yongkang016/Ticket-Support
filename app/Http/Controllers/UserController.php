@@ -52,6 +52,9 @@ class UserController extends Controller
             $role = $roleMapping[$data['role']];
         }
 
+
+
+
         $registerService = app(UserService::class);
         $user = $registerService->create($data);
 
