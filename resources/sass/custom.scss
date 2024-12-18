@@ -1,0 +1,146 @@
+html {
+    background: #F5F8FD !important;
+}
+
+.w-30 {
+    width: 30% !important;
+}
+
+.w-1050px {
+    width: 1050px !important;
+}
+
+.w-1060px {
+    width: 1060px !important;
+}
+
+.w-1070px {
+    width: 1070px !important;
+}
+
+.w-1100px {
+    width: 1100px !important;
+}
+
+.w-1200px {
+    width: 1200px !important;
+}
+
+.custom-box-shadow-1 {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+.custom-font-weight-500 {
+    font-weight: 500 !important;
+}
+
+.custom-font-weight-600 {
+    font-weight: 600 !important;
+}
+
+.custom-font-weight-700 {
+    font-weight: 700 !important;
+}
+
+.custom-text-overflow-ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.custom-rounded-1 {
+    border-radius: 1.5rem !important;
+}
+
+.custom-rounded-2 {
+    border-radius: 2rem !important;
+}
+
+.custom-rounded-3 {
+    border-radius: 2.5rem !important;
+}
+
+.custom-fs-6px {
+    font-size: 6px !important;
+}
+
+.custom-fs-8px {
+    font-size: 8px !important;
+}
+
+.custom-fs-10px {
+    font-size: 10px !important;
+}
+
+.custom-fs-12px {
+    font-size: 12px !important;
+}
+
+.custom-hover-effect-1:hover {
+    border-left-color: #F65626 !important;
+    background: #F5F8FD !important;
+}
+
+.custom-hover-effect-1:hover .value-font-color {
+    color: #F65626 !important;
+}
+
+.custom-active-effect {
+    border-left-color: #F65626 !important;
+    background: #F5F8FD !important;
+}
+
+.custom-active-effect .value-font-color {
+    color: #F65626 !important;
+}
+
+.filter-container {
+    transition: 0.3s;
+}
+
+.custom-table-effect-1 th:first-child {
+    border-top-left-radius: 1rem !important;
+    border-bottom-left-radius: 1rem !important;
+}
+
+.custom-table-effect-1 th:last-child {
+    border-top-right-radius: 1rem !important;
+    border-bottom-right-radius: 1rem !important;
+}
+
+.custom-table-effect-1 td:first-child {
+    border-top-left-radius: 1rem !important;
+    border-bottom-left-radius: 1rem !important;
+    box-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.05) !important;
+}
+
+.custom-table-effect-1 td:last-child {
+    border-top-right-radius: 1rem !important;
+    border-bottom-right-radius: 1rem !important;
+    box-shadow: 5px 0.3rem 0.5rem rgba(0, 0, 0, 0.05) !important;
+}
+
+.custom-table-effect-1 th, .custom-table-effect-1 td {
+    background: #ffffff !important;
+    box-shadow: 5px 0.3rem 0.5rem rgba(0, 0, 0, 0.05) !important;
+}
+
+.custom-table-effect-1 {
+    border-collapse: separate !important;
+    border-spacing: 0 10px !important; /* Adjust the second value to set the vertical gap */
+}
+
+.custom-header-1 {
+    position: sticky !important;
+    background: white !important;
+    z-index: 1 !important;
+    top: 0 !important;
+}
+
+.custom-filter-1 {
+    filter: invert(25%) sepia(0%) saturate(2%) hue-rotate(225deg) brightness(95%) contrast(86%);
+}
+
+.custom-bg-success-1 {
+    background: #41C0BE !important;
+}
